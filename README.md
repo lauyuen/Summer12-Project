@@ -3,8 +3,7 @@ Summer12-Project
 
 Live Editing Project
 
-Project Team:
+Project Team Members
+--------------------
 Marcin Matynia
 Yuen Lau
-
-Hello
